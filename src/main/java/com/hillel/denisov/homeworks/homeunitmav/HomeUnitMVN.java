@@ -10,12 +10,6 @@ public class HomeUnitMVN {
     public static void main(String[] args) {
 
         int[] array = new int[10];
-        int count = 0;
-        for (int i = 0; i < array.length; i++) {
-            array[i] = count++;
-        }
-        System.out.println(Arrays.toString(array));
-        bubbleSort(array);
 
 
     }
@@ -92,8 +86,34 @@ public class HomeUnitMVN {
         if (a % b == 0) {
             System.out.println("This a array Square");
         } else {
-            System.out.println("no FUCK OFF");
+            System.out.println("Not square");
         }
         return 0;
+    }
+
+    public static int getElementIn(int[] array, int elem) {
+        for (int i = 0; i < array.length; i++) {
+
+            if(elem == array[i]){
+                return i;
+            }
+        }
+        return -1;
+    }
+    static int getElementInMatrix(int[][] array, int element){
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array[i].length; j++) {
+                array[i][j]= rand();
+                if(array[i].length == element){
+                    return element;
+                }
+                if(array[j].length == element){
+                    return element;
+                }
+            }
+        }return -1;
+    }
+    static int rand(){
+        return (int) (Math.random()* 10);
     }
 }
