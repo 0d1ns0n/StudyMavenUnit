@@ -6,6 +6,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 
 public class SnakeFrame extends JPanel implements ActionListener {
@@ -23,6 +25,8 @@ public class SnakeFrame extends JPanel implements ActionListener {
 
     public SnakeFrame() {
         timer.start();
+        addKeyListener(new KeyB());
+        setFocusable(true);
     }
 
     public static void main(String[] args) {
@@ -65,5 +69,39 @@ public class SnakeFrame extends JPanel implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         snake.move();
         repaint();
+
+    }
+
+    public class KeyB extends KeyAdapter {
+        @Override
+        public void keyPressed(KeyEvent e) {
+            int k = e.getKeyCode();
+            if (k == KeyEvent.VK_UP && snake.runBody != 2) {
+                snake.runBody = 0;
+            }
+            if (k == KeyEvent.VK_DOWN && snake.runBody != 0) {
+                snake.runBody = 2;
+            }
+            if (k == KeyEvent.VK_LEFT && snake.runBody != 1) {
+                snake.runBody = 3;
+            }
+            if (k == KeyEvent.VK_RIGHT && snake.runBody != 3) {
+                snake.runBody = 1;
+            }
+//            switch (e.getKeyCode()) {
+//                case KeyEvent.VK_UP -> {
+//                    snake.runBody = 0;
+//                }
+//                case KeyEvent.VK_DOWN -> {
+//                    snake.runBody = 2;
+//                }
+//                case KeyEvent.VK_LEFT -> {
+//                    snake.runBody = 3;
+//                }
+//                case KeyEvent.VK_RIGHT -> {
+//                    snake.runBody = 1;
+//                }
+//            }
+        }
     }
 }
