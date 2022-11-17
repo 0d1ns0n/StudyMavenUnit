@@ -5,16 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="964b7420-00b9-4aab-8d33-eec60bfae50f" name="Changes" comment="mav">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/krestikixo/Xor0Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/krestikixo/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/krestikixo/window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/BomFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/BomMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/flag1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/gavno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/object/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/object/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/object/take.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/test/SimpleWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/test/TestProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/test/take.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/SnakeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/SnakeFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/object/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/object/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/object/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/object/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/snake/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,19 +70,30 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/MavenSrudyStart/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Admin/IdeaProjects/MavenSrudyStart/src/main/java/com/hillel/denisov/homeworks/homeunitmav/boom/gavno.png&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.window">
-    <configuration name="HomeUnitMVN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.HomeUnitMVN" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\MavenSrudyStart\src\main\java\com\hillel\denisov\homeworks\homeunitmav\boom" />
+      <recent name="C:\Users\Admin\IdeaProjects\MavenSrudyStart\src\main\java\com\hillel\denisov\homeworks\homeunitmav\boom\test" />
+      <recent name="C:\Users\Admin\IdeaProjects\MavenSrudyStart\src\main\java\com\hillel\denisov\homeworks\homeunitmav\boom\object" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\MavenSrudyStart\src\main\java\com\hillel\denisov\homeworks\homeunitmav\boom" />
+      <recent name="C:\Users\Admin\IdeaProjects\MavenSrudyStart\src\main\java\com\hillel\denisov\homeworks\homeunitmav\boom\object" />
+      <recent name="C:\Users\Admin\IdeaProjects\MavenSrudyStart\src\main\java\com\hillel\denisov\homeworks\homeunitmav\snake" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SnakeFrame">
+    <configuration name="BomFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.boom.BomFrame" />
       <module name="MavenStudyStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.*" />
+          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.boom.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.krestikixo.test" />
-      <module name="MavenSrudyStart" />
+    <configuration name="BomMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.boom.BomMenu" />
+      <module name="MavenStudyStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.krestikixo.*" />
+          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.boom.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.krestikixo.window" />
-      <module name="MavenSrudyStart" />
+    <configuration name="SnakeFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.snake.SnakeFrame" />
+      <module name="MavenStudyStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.krestikixo.*" />
+          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.snake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,44 +127,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getElementInTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MavenSrudyStart" />
+    <configuration name="SnakeRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.snake.SnakeRun" />
+      <module name="MavenStudyStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.*" />
+          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.snake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hillel.denisov.homeworks.homeunitmav" />
-      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.getElementInTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getElementInTest.testGetElIndMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MavenSrudyStart" />
+    <configuration name="TestProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.boom.test.TestProg" />
+      <module name="MavenStudyStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.*" />
+          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.boom.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hillel.denisov.homeworks.homeunitmav" />
-      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.getElementInTest" />
-      <option name="METHOD_NAME" value="testGetElIndMatrix" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.window" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="JUnit.getElementInTest.testGetElIndMatrix" />
-        <item itemvalue="JUnit.getElementInTest (1)" />
-        <item itemvalue="Application.HomeUnitMVN" />
+        <item itemvalue="Application.SnakeFrame" />
+        <item itemvalue="Application.SnakeRun" />
+        <item itemvalue="Application.BomFrame" />
+        <item itemvalue="Application.BomMenu" />
+        <item itemvalue="Application.TestProg" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666349449103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mav">
+      <created>1668359597314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668359597314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mav">
+      <created>1668417083204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668417083204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
