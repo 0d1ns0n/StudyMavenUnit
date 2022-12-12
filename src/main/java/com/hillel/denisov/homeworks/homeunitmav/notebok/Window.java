@@ -60,6 +60,6 @@ public class Window  extends JFrame implements ActionListener {
 
     public static void main(String[] args) {
         JFrame jFrame = new Window();
-        jFrame.setVisible(true);
+        jFrame.setVisible(true);   ммисмчт
     }
 }
