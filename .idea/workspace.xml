@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="964b7420-00b9-4aab-8d33-eec60bfae50f" name="Changes" comment="mav">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/krestikixo/Xor0Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/krestikixo/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/krestikixo/window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/notebok/Brain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/denisov/homeworks/homeunitmav/notebok/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +59,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.window">
-    <configuration name="HomeUnitMVN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.HomeUnitMVN" />
-      <module name="MavenStudyStart" />
+  <component name="RunManager" selected="Application.Window">
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.denisov.homeworks.homeunitmav.notebok.Window" />
+      <module name="MavenSrudyStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.*" />
+          <option name="PATTERN" value="com.hillel.denisov.homeworks.homeunitmav.notebok.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Window" />
         <item itemvalue="Application.window" />
         <item itemvalue="Application.test" />
         <item itemvalue="JUnit.getElementInTest.testGetElIndMatrix" />
         <item itemvalue="JUnit.getElementInTest (1)" />
-        <item itemvalue="Application.HomeUnitMVN" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666349449103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mav">
+      <created>1667464798677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667464798677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
